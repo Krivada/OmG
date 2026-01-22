@@ -1,0 +1,13 @@
+[22140:19208:0121/203505.223:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22140:23160:0121/203505.261:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22140:19208:0121/203505.280:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22140:19208:0121/203507.079:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[18488:7584:0121/203508.167:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-534F8E345FD2D096C906FC9C3BCE983F will be ignored
+[31964:27868:0121/203511.409:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22140:19208:0121/203511.431:ERROR:device_event_log_impl.cc(196)] [20:35:11.423] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[22140:19208:0121/203511.432:ERROR:device_event_log_impl.cc(196)] [20:35:11.425] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[31964:27868:0121/203511.447:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22140:19208:0121/203512.080:ERROR:device_event_log_impl.cc(196)] [20:35:12.080] USB: usb_device_handle_win.cc:959 Interface handle not available for control transfer.
+[31964:27868:0121/203520.664:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[31964:27868:0121/203528.717:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22140:19208:0121/203537.968:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
