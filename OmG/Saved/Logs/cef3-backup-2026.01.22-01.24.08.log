@@ -1,0 +1,23 @@
+[19376:12608:0121/202149.372:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19376:14704:0121/202149.398:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19376:12608:0121/202149.412:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19376:12608:0121/202151.150:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[8868:20896:0121/202151.733:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-945ADFC47C046CDF56C07061B24BE7D4 will be ignored
+[19376:28072:0121/202152.088:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19376:12608:0121/202152.171:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19376:12608:0121/202152.171:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19376:12608:0121/202152.171:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19376:12608:0121/202152.171:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19376:28072:0121/202152.174:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[9612:17908:0121/202152.478:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-7767CDEBF674226B40F038514267C8B6 will be ignored
+[19376:12608:0121/202154.163:ERROR:device_event_log_impl.cc(196)] [20:21:54.156] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[19376:12608:0121/202154.163:ERROR:device_event_log_impl.cc(196)] [20:21:54.157] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19376:12608:0121/202154.212:ERROR:device_event_log_impl.cc(196)] [20:21:54.211] USB: usb_device_handle_win.cc:959 Interface handle not available for control transfer.
+[32744:22900:0121/202155.527:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32744:22900:0121/202155.561:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32744:22900:0121/202203.409:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[32744:22900:0121/202215.849:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[26616:12120:0121/202358.408:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[26616:12120:0121/202358.408:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[32744:22900:0121/202359.031:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 27
+[19376:12608:0121/202408.720:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
